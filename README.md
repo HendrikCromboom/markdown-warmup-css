@@ -1,1 +1,1 @@
-https://github.com/HendrikCromboom/markdown-warmup-css/blob/master/index.html
+https://hendrikcromboom.github.io/markdown-warmup-css/
