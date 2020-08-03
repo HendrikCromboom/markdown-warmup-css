@@ -19,6 +19,7 @@ body {
     opacity: 0.5;
     position: sticky;
     position: -webkit-sticky;
+    overflow-x: hidden;
 }
 .img {
     display: block;
