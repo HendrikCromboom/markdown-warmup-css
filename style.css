@@ -2,14 +2,6 @@ body {
     background-color: #e8fffa;
 }
 
-hr {
-    width: 70%;
-    border: 0;
-    height: 1px;
-    background: #000;
-    opacity: 0.09;
-}
-
 @font-face {
     font-family: DeadRevolution;
     src: url(Dead%20Revolution.otf);
@@ -41,6 +33,7 @@ div.me {
     margin-bottom: 25px;
     font-family: DeadRevolution;
     margin-left: 30%;
+    border-radius: 15px 15px 30px;
 }
 
 div.container {
@@ -55,6 +48,7 @@ div.me2 {
     margin-bottom: 25px;
     font-family: Plom;
     margin-left: 30%;
+    border-radius: 15px 50px 30px;
 }
 
 div.container2 {
