@@ -21,9 +21,10 @@ body {
 div.me {
     width: 40%;
     background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
     margin-bottom: 25px;
     font-family: DeadRevolution;
+    margin-left: 30%;
 }
 
 div.container {
@@ -34,13 +35,18 @@ div.container {
 div.me2 {
     width: 40%;
     background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
     margin-bottom: 25px;
     font-family: Plom;
+    margin-left: 30%;
+
+
 }
 
 div.container2 {
     text-align: left;
     padding: 10px 20px;
     font-family: Plom;
+
+
 }
