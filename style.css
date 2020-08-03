@@ -2,6 +2,14 @@ body {
     background-color: #e8fffa;
 }
 
+hr {
+    width: 70%;
+    border: 0;
+    height: 1px;
+    background: #000;
+    opacity: 0.09;
+}
+
 @font-face {
     font-family: DeadRevolution;
     src: url(Dead%20Revolution.otf);
@@ -15,8 +23,7 @@ body {
     display: block;
     max-width: 100%;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5%
 }
 div.me {
     width: 40%;
