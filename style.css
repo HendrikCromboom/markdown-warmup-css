@@ -19,11 +19,20 @@ hr {
     src: url(PlomPraeng.ttf);
 }
 
+.banner {
+    position:absolute;
+    left: 0px;
+    top: 0px;
+    z-index:-100;
+    opacity: 0.5;
+    position: sticky;
+    position: -webkit-sticky;
+}
 .img {
     display: block;
     max-width: 100%;
     height: auto;
-    margin-left: 5%
+    margin-left: 5%;
 }
 div.me {
     width: 40%;
@@ -46,14 +55,10 @@ div.me2 {
     margin-bottom: 25px;
     font-family: Plom;
     margin-left: 30%;
-
-
 }
 
 div.container2 {
     text-align: left;
     padding: 10px 20px;
     font-family: Plom;
-
-
 }
